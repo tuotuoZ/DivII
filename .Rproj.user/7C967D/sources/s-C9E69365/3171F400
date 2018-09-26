@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1537929439940.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3995647718",
+    "id" : "3171F400",
+    "lastKnownWriteTime" : 1537929444,
+    "last_content_update" : 1537929444907,
+    "path" : "~/DivII/vignettes/Retrospective Essay.Rmd",
+    "project_path" : "vignettes/Retrospective Essay.Rmd",
+    "properties" : {
+        "cursorPosition" : "8,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

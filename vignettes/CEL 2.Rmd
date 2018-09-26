@@ -1,0 +1,50 @@
+---
+title: "CEL 2"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+It’s a delightful experience to work with Professor Ethan Meyers this summer at Tomaso Poggio’s Laboratory. Our research group developed a toolbox in R together. I will describe our results below.
+
+
+
+### The Goal
+
+The goal of this summer project was to develop a toolbox to analyze monkeys’ neural data. The output of the toolbox is a relationship between neural activity and experimental conditions. We also wanted to make the toolbox more user-friendly so we had a plan for designing a graphic user interface. Also, my personal interest is to apply parallel computation in the toolbox.
+
+
+
+### The Process
+
+Our research group had four research members in total. We have worked with Cindy Fang who was a returning research assistant. Lily Rithichoo is from Mount Holyoke College, and Priscilla Lu and I are from Hampshire College.
+
+
+
+Working in a group as a programmer was a new experience for all of us. To get the most out of this research, we decided to assign different jobs to different people during our first group meeting. We met at Poggio’s Laboratory and realized everyone’s coding background was different so we put Cindy as the manager. Her job was to help out everyone a little bit since she was more experienced and had been working with this toolbox since last summer. Cindy facilitaed how all of us we combined our codes together.
+
+
+
+I got introduced to a lot of new tools during the meeting. We started to using slack, a hub for team communication and files sharing. I learned Github, a hub for storing the code and maintain version control, where we could view others’ codes and merge our codes together. The workflow was quite different from what I had been doing on campus. In most of my courses, Professors asked us to download a local working environment so we could use own spare time and do works more often. At MIT, We were asked to use the cluster server instead of our own computer. We had to allocate a node in the server and achieved lots of things by typing in the terminal.  This was mainly because the toolbox we were developing requires tons of computation resource.
+
+
+
+All of this work was challenging for me. Each of the topics had at least one hundred pages of documentation. It was intimidating to finish all of them in a short amount of time. I tried hard to finish  video tutorials about Github at the beginning, within two days but after a short time period, I forgot most of them. The video was not related to what I was doing! Instead of going through the whole tutorial again, I just focused on five key commands that I needed at that time and it worked just fine! I applied the same technique to using slack and the cluster. I was surprised at how effective this method was! After a few days, I could quickly focus on the project instead of the tools.
+
+
+
+I spent another two weeks learning the parallel package in R and applied the parallel package to NDTr(Neural Decoding Toolbox in R). I realized I still have some free time so Professor Ethan Meyers suggested that I look at the cloud computation direction. I was fascinated by how powerful a cloud server could be. Google Cloud Platform and Amazon Web Services were two options for me. It was pretty easy for me to follow the instructions to start a server but I didn’t understand the reasons behind some of the steps. It turned out that Linux knowledge was crucial for the server step up.
+
+
+
+After mastering the Linux commands, Ethan told me we can use Docker, a program to handle running the environment for users,  which simplifies everything for users so they won’t have to go through the environment and packages setting up like I did. It was interesting to see how fast the Docker can set up everything like I did but automatically and faster. I used some skills from Linux to write a script in the Docker. In the end, I managed to produce a docker for the user to type a few lines of command to start a running NDTr app on their own server.
+
+
+
+### The Feedback
+
+Working on a real-life project is an enlightening experience. It gave me a new view of how I should enrich my skills. Before this summer, I had a tunnel vision, and didn’t know how to expand myself outside the class and struggled to find a direction. Learning what professors covered in class was the only way for me to think of my project. However, when we were learning the theory, the gravity of the class was not on the tools, which could be a problem because we didn’t get chance exposed to some of the latest tool. Now, I am more aware of the tools they are using in a coding team and the techniques to communicate with each other. Actually, those new coding tools can give me different perspectives. I am recently learning ios developing and find the Machine Learning framework. Applying my Machine learning skills into a ios application could be a interesting project. I think I have a clearer goal for my Div III of what should I learn. For example, algorithm design, operating system, and web protocol. Those were the things I thought wouldn’t be helpful but it turns out they are really neat skills to put in my inventory. It’s also a step toward to work in a industry. I’m glad that I made such progress in the summer and I will keep endeavouring building skills around my computer science concentration.

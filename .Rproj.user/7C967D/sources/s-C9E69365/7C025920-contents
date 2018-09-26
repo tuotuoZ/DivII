@@ -1,0 +1,23 @@
+title: MY DIV II
+navbar:
+  title: "sparklyr"
+  type: inverse
+  left:
+    - text: "Home"
+      href: "index.html"
+
+    - text: "Retrospective Essay"
+      href: "articles/Retrospective Essay.html"
+
+    - text: "CEL 2"
+      href: "articles/CEL 2.html"
+
+    - text: "Multicultural perspective"
+      href: "articles/Multicultural perspective.html"
+
+    - text: "Demos"
+      href: "articles/Demos.html"
+
+  right:
+    - icon: fa-github
+      href: https://github.com/rstudio/sparklyr

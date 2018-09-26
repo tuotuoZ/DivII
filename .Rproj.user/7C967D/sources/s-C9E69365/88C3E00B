@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1537929663304.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "501693212",
+    "id" : "88C3E00B",
+    "lastKnownWriteTime" : 1537929670,
+    "last_content_update" : 1537929670320,
+    "path" : "~/DivII/vignettes/Demos.Rmd",
+    "project_path" : "vignettes/Demos.Rmd",
+    "properties" : {
+        "cursorPosition" : "1,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 11,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
