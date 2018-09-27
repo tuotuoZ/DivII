@@ -1,0 +1,80 @@
+---
+title: "Courses"
+
+output: html_document
+---
+
+
+
+<style>
+  .col2 {
+    columns: 2 200px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 200px; /* chrome, safari */
+    -moz-columns: 2 200px;    /* firefox */
+  }
+  .col3 {
+    columns: 3 100px;
+    -webkit-columns: 3 100px;
+    -moz-columns: 3 100px;
+  }
+</style>
+
+
+
+
+<style>
+.column-left{
+  float: left;
+  width: 66%;
+  text-align: left;
+}
+.column-center{
+  display: inline-block;
+  width: 33%;
+  text-align: center;
+}
+.column-right{
+  float: right;
+  width: 33%;
+  text-align: right;
+}
+</style>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+<div class="column-left">
+*Intro Discrete Mathematics   
+*[Ind Study-Melding Martial Arts into Theater ](martial.html)  
+*[First Readings](fr.html)  
+*[Ind Study Independent Study in Analytical and Creative Writing](writing.html)  
+*Problem Solving/Object Prog    
+*[Ind Study Directing Through the Understanding of Designer's Perspective](designers.html)  
+*Calculus II   
+*Program With Data Structures   
+*[Artificial Intelligence](AI.html)   
+*Linear Algebra   
+*[Introduction to Data Science](introDS.html)  
+*[Genetic Programming](gp.html)    
+</div>
+
+         
+
+
+<div class="column-right">
+*Smith B  
+*Mei Ann Teo           
+*William (Will) MacAdams	  
+*William Ryan	   
+*Mt Holyoke A  
+*Mei Ann Teo  
+*Mt Holyoke B  
+*Smith B+  
+*Lee Spector  
+*Smith B  
+*Ethan Meyers  
+*Lee Spector  
+</div>

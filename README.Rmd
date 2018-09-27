@@ -16,5 +16,5 @@ knitr::opts_chunk$set(
 
 # DivII
 
-The goal of DivII is to ...
+Welcome to Tony's Division II portfolio!
 

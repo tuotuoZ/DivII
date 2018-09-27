@@ -1,0 +1,34 @@
+---
+title: "Independent Study in Analytical and Creative Writing"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Course Description
+Independent Study in Analytical and Creative Writing
+
+Divisional Requirements
+Was course completed satisfactorily?	Yes
+## Narrative Description of Student Performance
+Tony Zhang did an excellent job in this independent study in writing. The plan was to use science fiction as a way to develop not only sentence-level writing, but also larger storytelling abilities. Tony did both.
+
+Tony did some reading in science fiction, including The Story of Your Life, by Ted Chiang. He wrote two stories. The first was on computer hacking, which tended to be too "inside" and depend too much on computer knowledge. There was little opportunity for revealing character. Still he worked hard on this and the effort gave us a chance to talk about writing strategies and choices.
+
+The second story was much more successful. This piece relied on time travel, and also on the challenges of rivalry and relationships for dramatic tension. That sort of storytelling represented a real step forward. It also allowed Tony to use science fiction to illustrate tensions in today's world. Tony improved his character building, as well.
+
+Mostly, I was happy to see how much more clearly Tony was writing on a sentence and paragraph level. He works very hard and really tries to improve. He has made good progress this semester and I look forward to work with him in the future.
+
+## Cumulative Skills
+Note: Comments on progress/proficiency are internal only, but may be used by advisors in writing Division I evaluations.
+
+Independent Work Cumulative Skill
+(none entered)
+Multiple Cultural Perspectives Cumulative Skill
+(none entered)
+Quantitative Cumulative Skill
+(none entered)
+Writing and Research Cumulative Skill
+(none entered)

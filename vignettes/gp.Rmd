@@ -1,0 +1,41 @@
+---
+title: "Genetic Programming"
+
+output: html_document
+---
+
+## Course Description
+Genetic programming is a computational technique that harnesses the mechanisms of natural evolution, including genetic recombination, mutation, and natural selection, to synthesize computer programs automatically from input/output specifications. It has been applied to a wide range of problems spanning several areas of science, engineering, and the arts. In this course students will explore several variations of the genetic programming technique and apply them to problems of their choosing. Prerequisite detail: One programming course (in any language).
+
+## Divisional Requirements
+Was course completed satisfactorily?	Yes
+Narrative Description of Student Performance
+The objectives of this course were to: understand and apply genetic programming, a computational problem-solving technique based on evolutionary principles; develop skills in "functional"-style programming; conduct independent programming-based project work; and work collaboratively with classmates. Students were evaluated on the basis of attendance, participation (both in class and in out-of-class activities), and a portfolio of code and text. Students were expected to demonstrate through their participation, code, and text that they had read and thought about the course readings, developed facility with the code environment used in the class, and engaged with several of the class topics at the implementation level.
+
+Tony Zhang's performance in this course was generally strong. His attendance was good, and he always participated actively and productively in class activities. Tony worked hard in this course, and his skills and knowledge improved steadily throughout the semester. That said, he was not particularly disciplined about submitting material to his portfolio, which was missing several items at the end of the semester (including his final project code and an updated summary). Tony's final project work, on the evolution hash functions, demonstrated perseverance and engagement with course materials at both the implementation and conceptual levels. 
+
+Tony clearly learned a great deal about genetic programming in this course, and he developed and demonstrated strong skills in computer science.
+
+ 
+
+## Cumulative Skills
+Note: Comments on progress/proficiency are internal only, but may be used by advisors in writing Division I evaluations.
+
+Quantitative Cumulative Skill
+Demonstrated significant skills
+
+## Independent Work Cumulative Skill
+- Proposal: good
+- Timetable: good
+- Revision: good
+- Ability to sustain: good
+- Self-evaluation: good
+
+Multiple Cultural Perspectives Cumulative Skill
+(none entered)
+Writing and Research Cumulative Skill
+(none entered)
+Optional Additional Comments
+For internal use by student and advisor, not for transcript.
+
+(none entered)

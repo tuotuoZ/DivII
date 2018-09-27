@@ -6,14 +6,19 @@ navbar:
     - text: "Home"
       href: "index.html"
 
-    - text: "Retrospective Essay"
-      href: "articles/Retrospective Essay.html"
+    - text: "Essays"
+      menu:
+      - text: "Retrospective Essay"
+        href: "articles/Retrospective Essay.html"
+      - text: "CEL 2"
+        href: "articles/CEL 2.html"
+      - text: "Multicultural perspective"
+        href: "articles/Multicultural perspective.html"
 
-    - text: "CEL 2"
-      href: "articles/CEL 2.html"
 
-    - text: "Multicultural perspective"
-      href: "articles/Multicultural perspective.html"
+    - text: "Courses"
+      href: "articles/Courses.html"
+
 
     - text: "Demos"
       href: "articles/Demos.html"

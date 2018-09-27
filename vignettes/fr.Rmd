@@ -1,0 +1,36 @@
+---
+title: 'First Readings: The Art of Theatrical Collaboration'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Course Description
+This course replicated the fast-paced, collaborative spirit of a theater ensemble at the beginning of a rehearsal process. Over the course of the semester, we began work on many plays -- both classical texts and plays by visionary playwrights from diverse backgrounds and identities who are illuminating and redefining contemporary theater. (Plays were selected by both the instructor and by students.) For each play, students completed both dramaturgical research and ensemble projects including scenes, design responses, ensemble-based physical explorations, and dialogue about how one would approach questions of race and casting in the play. The course was designed for students of all theatrical disciplines as well as those who hadno background in theatre but were curious about collaborative work. The goals were to broaden students' repertoire of plays and to dive headlong into the question: how do we begin?
+
+Divisional Requirements
+Was course completed satisfactorily?	Yes
+## Narrative Description of Student Performance
+Tony was a committed, and at times deeply engaged, student in “First Readings." Coursework included the reading of plays, critical writing, short and largely improvised performances, and a range of creative responses. Several of his assignments helped shape the dynamic of the course. Two were of particular note: a response to Dominique Morisseau’s “Detroit 1967” that visually linked the play to comparative events in China and which deepened fellow students’ understanding of it; and a moving original scene, in response to Sophie Treadwell’s “Machinal.”
+
+Tony struggled, particularly in the beginning of the semester, to keep up with the workload. This was compounded by several absences. Although Tony reached out regularly to the teaching assistant to stay engaged, there were times in which the quality of his work suffered.
+
+That said, Tony remained open to the impact of each play, both in the classroom and in the world outside of it. In reading his self-evaluation, it is extraordinary how much the coursework shifted his perspective on theater. This reflects the power of the plays themselves, of course. Perhaps even more, though, it reflects Tony's ability to dive into the world of each play and continually challenge his own perspective as a result. In short, Tony is a deeply committed learner. For this reason, and for all the reasons described above, it was a pleasure to have him in the course.
+
+ 
+
+## Cumulative Skills
+Note: Comments on progress/proficiency are internal only, but may be used by advisors in writing Division I evaluations.
+
+## Multiple Cultural Perspectives Cumulative Skill
+Tony actively engaged with the complex questions of multiple cultural perspectives that were at the foundation of the course.
+
+## Writing and Research Cumulative Skill
+Tony participated in many modes of participatory and individual research, and his writing satisfied the expectations of the course.
+
+Independent Work Cumulative Skill
+(none entered)
+Quantitative Cumulative Skill
+(none entered)

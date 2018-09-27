@@ -1,0 +1,28 @@
+---
+title: "Melding Martial Arts into Theater"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Course Description
+Melding Martial Arts into Theater
+
+Divisional Requirements
+Was course completed satisfactorily?	Yes
+## Narrative Description of Student Performance
+Tony was a great student in this independent study of melding martial arts into theatre. Meeting weekly, we would discuss the context in which we were working, as well as the parameters of how to address this topic in the United States. He would consistently bring exciting ideas and insights into every meeting, having done research on the ways that kung fu was being used to tell stories, both personal and communal. His thoughts, while often needing more organization, had a range of understanding of the histories of China and Japan, as well as the concepts of fighting for justice with mercy. As the semester continued, Tony grew in his ability to frame the conversation through continual revision. In his classes in kung fu in Amherst, Tony was an excellent classmate who was careful, supportive, and enthusiastic about learning the martial art. His creation and direction of the final presentation was engaged, and he showed excellent potential in crafting martial arts into theatre.
+
+Cumulative Skills
+Note: Comments on progress/proficiency are internal only, but may be used by advisors in writing Division I evaluations.
+
+Independent Work Cumulative Skill
+(none entered)
+Multiple Cultural Perspectives Cumulative Skill
+(none entered)
+Quantitative Cumulative Skill
+(none entered)
+Writing and Research Cumulative Skill
+(none entered)

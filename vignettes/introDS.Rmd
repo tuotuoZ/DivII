@@ -1,0 +1,30 @@
+---
+title: "Introduction to Data Science"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Course Description
+Data Science is a field that uses computational tools to extract insight from large data sets. This class covered several key topics in Data Science including data visualization, data cleaning/wrangling, making predictions from data (machine learning), and manipulating text. Students learned how to use the R programming language to analyze data by engaging with seven homework assignments (five worksheets and two DataCamp exercises), along with larger midterm and final class projects. Students also gave three class presentations to practice communicating quantitative information, and they commented on nine data journalism articles to learn more about ongoing work in the field. By successfully completing this class, students will have the ability to extract and communicate useful insights from real data sets.
+
+## Divisional Requirements
+Was course completed satisfactorily?	Yes
+Narrative Description of Student Performance
+Tony Zhang did very good work in this class. Tony did great work on the worksheet and DataCamp assignments, which showed he could effectively use the R programming language to analyze data. Tony also had thoughtful responses to the data journalism readings, which showed that he was actively engaged with the material. Tony's data journalism presentation on how Amazon one day delivery service differs between different ethnic and racial neighborhoods, as well as his midterm and final project presentations, were all well done, which demonstrated that he could create an engaging presentation and effectively convey quantitative information. Tony's midterm project analyzed carbon dioxide emissions in two different types of gasoline. This project involved a large amount of data wrangling and contained a number of interesting plots showing Tony had made solid progress on these skills. For Tony's final project, Tony built an artificial neural network machine learning algorithm to classify written digits using the Keras package. This project was very well done and a good extension of the methods discussed in class. In summary, Tony did very good work in this class, and I hope that he continues to apply what he has learned in future work.
+
+## Cumulative Skills
+Note: Comments on progress/proficiency are internal only, but may be used by advisors in writing Division I evaluations.
+
+## Quantitative Cumulative Skill
+Tony has strong quantitative skills. 
+
+Independent Work Cumulative Skill
+(none entered)
+Multiple Cultural Perspectives Cumulative Skill
+(none entered)
+Writing and Research Cumulative Skill
+(none entered)
+

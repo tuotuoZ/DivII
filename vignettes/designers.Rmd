@@ -1,0 +1,28 @@
+---
+title: "Directing Through the Understanding of Designer's Perspective"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Course Description
+Directing Through the Understanding of Designer's Perspective
+
+## Divisional Requirements
+Was course completed satisfactorily?	Yes
+## Narrative Description of Student Performance
+Tony was an excellent student in this independent study on designing and directing. Incredibly proactive, he set out very ambitious goals to accomplish and made every deadline. Through a series of design prompts, he learned how to research and think like a designer. His designs were usually witty and creative, and through learning how to edit research, he grew a lot in understanding how to process information into design. He also is a very adept observer, and is able to apply larger concepts across set and prop design. He shows a great potential to think like a producer, as he is capable of very detailed work as well as big ideas that reach the audience. He participated in many high level conversations with the creative team of Dim Sum Warriors, proving himself to be a valuable member to the team. Tony had an excellent semester in this independent study, and is growing by leaps and bounds in his ability to articulate concepts and create with rigor. His thoughtfulness is exemplary and I would involve him in any production. He is a valuable collaborator.  
+
+## Cumulative Skills
+Note: Comments on progress/proficiency are internal only, but may be used by advisors in writing Division I evaluations.
+
+Independent Work Cumulative Skill
+(none entered)
+Multiple Cultural Perspectives Cumulative Skill
+(none entered)
+Quantitative Cumulative Skill
+(none entered)
+Writing and Research Cumulative Skill
+(none entered)

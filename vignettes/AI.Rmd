@@ -1,0 +1,39 @@
+---
+title: "Artificial Intelligence"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Course Description
+Artificial Intelligence is a branch of computer science concerned with the development of computer systems that "think." In this course we will explore the core ideas of artificial intelligence through readings, presentations, discussions, and hands-on programming activities. A range of practical artificial intelligence techniques will be covered, and students will complete programming projects to demonstrate engagement with the themes of the course. Prerequisite detail: One programming course (in any language).
+
+## Divisional Requirements
+Was course completed satisfactorily?	Yes
+## Narrative Description of Student Performance
+The objectives of this course were to: gain familiarity with a range of concepts and computational techniques that have been developed by artificial intelligence (AI) researchers over history of the field; apply several of these concepts and techniques to hands-on research and development activities; develop skills in "functional"-style programming; conduct independent programming-based project work; develop project presentation skills; and work collaboratively with classmates. Students were evaluated on the basis of attendance, participation (both in class and in out-of-class activities), a portfolio of code and text, and in-class demo presentations. Students were expected to demonstrate that they had read and thought about the course readings, and portfolios were expected to demonstrate facility with the code environment used in the class and engagement with several of the class topics at the implementation level.
+
+Tony Zhang's performance in this course was excellent. He attended regularly and he engaged deeply with the course material. He contributed to the work of the class in substantive and constructive ways, both in his presentations and in his interactions with classmates. Although his English language skills require further attention, Tony wrote thoughtful responses to the course readings, providing informed perspectives and raising interesting questions. Although he faced challenges with the programming work at some points in the semester, he persevered and was able to make significant headway by the end of the semester. Tony worked on programming projects involving, for example, the use of genetic programming to find models for data, and preliminary work on using AI search algorithms to solve Rubik's Cube puzzles. In all of this work Tony demonstrated developing technical and critical thinking skills, along with knowledge of the field of artificial intelligence. He is prepared to move on to more advanced work in this field. 
+
+## Cumulative Skills
+Note: Comments on progress/proficiency are internal only, but may be used by advisors in writing Division I evaluations.
+
+
+## Quantitative Cumulative Skill
+- Numeracy: Good
+- Representation: Good
+- Application: Good
+
+## Independent Work Cumulative Skill
+- Proposal: Good
+- Timetable: Good
+- Revision: Good
+- Ability to sustain: Good
+- Self-evaluation: Good
+
+Multiple Cultural Perspectives Cumulative Skill
+(none entered)
+Writing and Research Cumulative Skill
+(none entered)
